@@ -1,0 +1,1 @@
+Install-ChocolateyZipPackage 'editorconfig-core' 'https://github.com/downloads/editorconfig/editorconfig-core/editorconfig-0.9.1-Windows-x86.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
