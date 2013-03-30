@@ -1,0 +1,4 @@
+; We have .editorconfig files in subdirectories. This file is only used to
+; prevent loading .editorconfig files in parent directories of this one.
+
+root = true
