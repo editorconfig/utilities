@@ -1,3 +1,9 @@
+[*]
+end_of_line = crlf
+
+[.editorconfig]
+end_of_line = lf
+
 [*.xml]
 indent_style = space
 indent_size = 2
