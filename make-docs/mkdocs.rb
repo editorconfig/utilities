@@ -8,7 +8,7 @@ require 'tmpdir'
 
 git_cmd = 'git'
 cmake_cmd = 'cmake'
-c_core_repo = 'git://github.com/editorconfig/editorconfig-core.git'
+c_core_repo = 'git://github.com/editorconfig/editorconfig-core-c.git'
 docs_repo = 'git@github.com:editorconfig/docs.editorconfig.org.git'
 c_core_branch = 'master'
 docs_branch = 'gh-pages'
